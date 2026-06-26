@@ -68,7 +68,29 @@ Implemented refresh-token support to improve session management.
 
 ## Project Screenshots
 
-(To be added)
+## Screenshots
+
+### Bus Ride List
+
+![Bus Ride List](screenshots/bus-rides-list.png)
+
+---
+
+### Bus Ride Details
+
+![Bus Ride Details](screenshots/bus-ride-details.png)
+
+---
+
+### Driver Verification
+
+![Driver Verification](screenshots/driver-verification.png)
+
+---
+
+### Create Bus Ride
+
+![Create Bus Ride](screenshots/create-bus-ride.png)
 
 ## Lessons Learned
 
